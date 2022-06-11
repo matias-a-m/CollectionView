@@ -1,4 +1,3 @@
 # CollectionView
 
-Help people interested in this repository understand your project by adding a 
-README.
+Two column colleciton view with four images in a grid.
